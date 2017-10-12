@@ -1,8 +1,8 @@
 # education
 
-## keywords: education, educational, graduation rate, graduation rates, test score, test scores, academic
+## keywords: education, educational, graduation, graduation rate, graduation rates, test score, test scores, academic
 
-## count: 165
+## count: 171
 
 ### contexts for education:
 alaska receives two native language **education** grants us senator lisa murkowski rak yesterday welcomed the
@@ -180,6 +180,82 @@ up in safe environments are more likely to have better **educational** outcomes 
 grow their own food schools have gardens that provide an **educational** as well as food production role and there is
 
 to drive discounts on transportation related services plans to hold **educational** forums and more participants include new york city council
+
+
+### contexts for graduation:
+work service arnsworth breezed through most of his requirements for **graduation** including mrt and never missing a urinalysis but towards
+
+in his arms as he turned the tassel on his **graduation** cap the full courtroom applauded him while he smiled
+
+anchorage alaska acting us attorney bryan schroder announced that a **graduation** ceremony was held today for rashad arnsworth 38 of
+
+participants according to judge smith mr arnsworth met the following **graduation** requirements of hope court which are demanding and are
+
+in hope court with six months of continuous sobriety before **graduation** because mr arnsworth successfully graduated from the program the
+
+fill those gaps this has led to increased retention and **graduation** rates and we are seeing people succeeding in reentering
+
+is what i do this is who i am after **graduation** from the us merchant marine academy usmma at kings
+
+merchant marine academy midshipmen to be principled leaders at a **graduation** ceremony saturday that capped a year of turmoil and
+
+2 were allowed to participate in the ceremony but their **graduation** materials were withheld pending the results of the inspector
+
+that is a hallmark of the curriculum and required for **graduation** that suspension denounced by many parents alumni and the
+
+successfully completed their course of study to participate in the **graduation** exercises buffalo lawyer anthony j kuhn who is representing
+
+have the option of either entering the navy reserve upon **graduation** or enter any of the five service branches marine
+
+have the option of either entering the navy reserve upon **graduation** or enter any of the five service branches marine
+
+to continue working with district administration in making sure our **graduation** rates increase for all students and the achievement gap
+
+her hometown she has found a lot has changed since **graduation** especially the way she looks at the world the
+
+arrivals daca student he is exploring what comes next after **graduation** a daca student and graduate of roger c sullivan
+
+a posse winner and hopes to attend connecticut college after **graduation** a senior at benito juarez high school he is
+
+says early and achievable targets might include reducing mortality increasing **graduation** rates reducing environmental hazards and increasing access to environmental
+
+says early and achievable targets might include reducing mortality increasing **graduation** rates reducing environmental hazards and increasing access to environmental
+
+individuals from the citc program become gainfully employed after full **graduation** the anchorage program has a 20year history ritter explained
+
+degree at the university of puerto rico at mayaguez after **graduation** he went to work for bayer diagnostics a medical
+
+students school attendance grades reading and math skills and raise **graduation** rates every school that has a sun school loves
+
+to participate to use funds on strategies proven to raise **graduation** rates and improve career and college readiness it does
+
+she also questions the potential of ip65 programs to improve **graduation** rates ip65 provides more money dedicated to career technical
+
+brings these proven strategies to scale doing so will improve **graduation** rates and ensure our kids leave high school with
+
+cte students graduated on time compared with the districts overall **graduation** rate of 67 percent jefferson high school increased its
+
+**graduation** rate of 67 percent jefferson high school increased its graduation rate by 14 percent largely thanks to partnerships with
+
+and self enhancement inc at wilsonville high school where the **graduation** rate shot up 10 points for the class of
+
+degree at the university of puerto rico at mayaguez after **graduation** he went to work for bayer diagnostics a medical
+
+students school attendance grades reading and math skills and raise **graduation** rates every school that has a sun school loves
+
+to participate to use funds on strategies proven to raise **graduation** rates and improve career and college readiness it does
+
+she also questions the potential of ip65 programs to improve **graduation** rates ip65 provides more money dedicated to career technical
+
+brings these proven strategies to scale doing so will improve **graduation** rates and ensure our kids leave high school with
+
+cte students graduated on time compared with the districts overall **graduation** rate of 67 percent jefferson high school increased its
+
+**graduation** rate of 67 percent jefferson high school increased its graduation rate by 14 percent largely thanks to partnerships with
+
+and self enhancement inc at wilsonville high school where the **graduation** rate shot up 10 points for the class of
+
+paws for freedom service and facility therapy dogs ready for **graduation** day paws for freedom inc a local notforprofit in
 
 
 ### contexts for graduation rate:
